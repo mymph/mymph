@@ -2,10 +2,10 @@
 
 Estudante de Bacharelado em Ciência da Computação. Interessada em Análise de Dados, Otimização Combinatória e Mecânica Celeste, entre várias outras áreas.
 
-## About me
+## Sobre mim
 
 - Atualmente cursando o 6º período na Universidade Federal do Agreste de Pernambuco
-- Me aventurando neste período na implementação de Compiladores, algoritmos de Machine Learning, Processamento de Imagens, tendo uma visão ampla sobre Computação Gráfica e Sistemas Distribuídos.
+- Me aventurando neste período na implementação de Compiladores, Algoritmos de Machine Learning, Processamento de Imagens, tendo uma visão ampla sobre Computação Gráfica e Sistemas Distribuídos.
 
 ## Tecnologias e Ferramentas
 
