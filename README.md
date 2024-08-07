@@ -4,6 +4,7 @@ Estudante de Bacharelado em Ciência da Computação. Interessada em Análise de
 
 ## Sobre mim
 
+- Idiomas: Português (nativo), Inglês (intermediário/avançado)
 - Atualmente cursando o 6º período na Universidade Federal do Agreste de Pernambuco
 - Me aventurando neste período na implementação de Compiladores, Algoritmos de Machine Learning, Processamento de Imagens, tendo uma visão ampla sobre Computação Gráfica e Sistemas Distribuídos.
 
